@@ -1,0 +1,23 @@
+{
+  "name": "weebquizer_client",
+  "version": "0.0.1",
+  "description": "",
+  "main": "/app/source/main.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Filomaster/WeebQuizer_client.git"
+  },
+  "author": "Filip 'Filomaster' Majorek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Filomaster/WeebQuizer_client/issues"
+  },
+  "homepage": "https://github.com/Filomaster/WeebQuizer_client#readme"
+}
