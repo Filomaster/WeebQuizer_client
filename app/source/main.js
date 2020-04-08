@@ -8,7 +8,7 @@ function newApp() {
   });
   win.loadURL(
     url.format({
-      pathname: "../resources/html/index.html",
+      pathname: "app/resources/html/index.html",
       slashes: true,
     })
   );
