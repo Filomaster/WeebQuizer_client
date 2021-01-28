@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/Filomaster/WeebQuizer_client#readme",
   "dependencies": {
-    "electron": "^8.2.1"
+    "electron": "^9.4.0"
   }
 }
